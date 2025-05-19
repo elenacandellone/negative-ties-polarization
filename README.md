@@ -21,7 +21,7 @@ Pre-print: [https://arxiv.org/abs/2501.05590](https://arxiv.org/abs/2501.05590)
     * `1_topic_modelling.ipynb`: script to perform BERTopic and TM-hSBM topic modelling
     * `2_compare_hsbm_bert.ipynb`: comparison of the two methods to have robust topics
     * `3a_create_attitudes.ipynb`: create network embeddings using SHEEP and CA
-    * `3b_sheep_null_model.ipynb`: 
+    * `3b_sheep_null_model.ipynb`: null model to compare SHEEP and CA
     * `4_figures_paper.ipynb`: code to reproduce the figures of the paper
 * `/src/`
     * `create_snapshot.py`: code to extract and clean data from scraped webpage.
