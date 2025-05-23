@@ -7,6 +7,7 @@ Open source data and code for the research paper:
 Negative Ties Highlight Hidden Extremes in Social Media Polarization 
 
 Pre-print: [https://arxiv.org/abs/2501.05590](https://arxiv.org/abs/2501.05590)
+
 Data: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15496643.svg)](https://doi.org/10.5281/zenodo.15496643)
 
 *shared first authors
