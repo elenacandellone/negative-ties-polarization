@@ -7,13 +7,14 @@ Open source data and code for the research paper:
 Negative Ties Highlight Hidden Extremes in Social Media Polarization 
 
 Pre-print: [https://arxiv.org/abs/2501.05590](https://arxiv.org/abs/2501.05590)
+Data: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15496643.svg)](https://doi.org/10.5281/zenodo.15496643)
 
 *shared first authors
 
 ## Contents of the repository
 
 * `/bertopic/`: BERTopic intermediate results and model specifications
-* `/data/`: CA and SHEEP emebddings and network files
+* `/data/`: CA and SHEEP embeddings and network files
 * `/figures/`: paper figures
 * `/hsbm/`: TM-hSBM intermediate results and model specifications
 * `/ideology_twitter/`: validation with Twitter data and [PoliticalWatch](https://politicalwatch.es/en)
